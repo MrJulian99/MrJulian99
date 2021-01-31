@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO HUMMAN! 👋
 
 - 🔭 I’m currently working on a Java/SpringBoot/Angular/Microservices/MongoDB(NoSQL)/Dockerizable/Kubernetes/AWS/DevOps Self Learned WebApp xDDDD
 - 🌱 I’m currently learning Java/SpringBoot/Angular/Microservices/MongoDB(NoSQL)/Dockerizable/Kubernetes/AWS/DevOps.
